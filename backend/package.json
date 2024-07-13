@@ -1,7 +1,7 @@
 {
   "name": "myboot-backend",
   "version": "1.0.0",
-  "description": "myboot - your notebook on the cloud ",
+  "description": "your noteboot on the cloud and to reedem code",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
